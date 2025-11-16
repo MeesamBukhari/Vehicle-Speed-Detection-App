@@ -4,7 +4,7 @@ torch
 torchvision
 torchaudio
 ultralytics
-super-gradients
+super-gradients>=3.7.0
 supervision
 opencv-python
 streamlit
